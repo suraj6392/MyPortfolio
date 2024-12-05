@@ -1,12 +1,15 @@
 {
-  "description": "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.",
+  "description": "I'm a Full Stack .NET Developer with a strong focus on front-end development. I specialize in building seamless and responsive user interfaces using technologies like React.js, Vue.js, HTML, CSS, and CSHTML. My goal is to create dynamic, intuitive, and high-performing web applications.",
   "skills": [
-    "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design"
+    "Full Stack .NET Development",
+    "Front-End Development (React.js, Vue.js)",
+    "HTML, CSS, and CSHTML",
+    "Responsive Web Design",
+    "Web Application Architecture",
+    "JavaScript Frameworks (React.js, Vue.js)",
+    "Server-Side Development with .NET",
+    "Cross-Browser Compatibility",
+    "API Integration and Development"
   ],
-  "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."
+  "detailOrQuote": "I am passionate about building scalable and user-friendly web applications. By combining my knowledge of full-stack development with expertise in front-end technologies, I strive to create modern, accessible, and efficient solutions that enhance user experiences while ensuring strong performance and scalability."
 }
